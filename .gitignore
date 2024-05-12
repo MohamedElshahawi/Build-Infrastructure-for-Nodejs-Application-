@@ -1,3 +1,4 @@
 #ignore all .terraform ex
 
 *.terraform
+.terraform.lock.hcl
